@@ -1,3 +1,3 @@
 # Discord.py-Tutorials
 
-# Code from ep #1 (https://www.youtube.com/watch?v=h7A_e1tG5qg&t=8s)
+# Code from ep #1 ![Discord.py Series](https://www.youtube.com/channel/UCkQMy6s7JDnMqtrBLewWvng/videos)
