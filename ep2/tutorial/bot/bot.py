@@ -4,6 +4,7 @@ from discord.ext import commands
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from pytz import utc
 from dotenv import load_dotenv
+from ..db import db
 
 OWNER_IDS = [860721513958342676]
 PREFIX = "."
